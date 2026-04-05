@@ -38,4 +38,4 @@ npm install
 npm run preview
 ```
 The app is available in https://anisulmahmud.github.io/e-plantShopping/
-#ENJOY
+
