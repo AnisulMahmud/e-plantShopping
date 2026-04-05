@@ -36,6 +36,6 @@ git clone https://github.com/AnisulMahmud/e-plantShopping.git
 cd e-plantShopping
 npm install
 npm run preview
-
-
+```
+The app is available in https://anisulmahmud.github.io/e-plantShopping/
 #ENJOY
